@@ -4,6 +4,18 @@
 
 ---
 
+## 📥 Dataset Download (FGSCR-SR-12)
+
+We have newly added the download link for the **FGSCR-SR-12 dataset**.
+
+**Baidu Cloud Link:**  
+🔗 https://pan.baidu.com/s/1wtozDHnQ5Ef1BDB9G41oxA  
+**Extraction Code:** `3vap`
+
+A detailed dataset description and usage instructions will be added upon full public release.
+
+---
+
 ## 🌐 Introduction
 This repository contains the official implementation of our paper *"Sim-to-Real Image-to-Image Translation for Remote Sensing Fine-Grained Ship Images Using Generative Diffusion Models"*.
 
